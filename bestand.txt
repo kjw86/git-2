@@ -1,1 +1,2 @@
-Dit wordt mijn eerste commit.
+1. Dit wordt mijn eerste commit.
+2. Dit wordt mijn tweede commit.
